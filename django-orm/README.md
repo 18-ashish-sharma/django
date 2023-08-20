@@ -1,4 +1,4 @@
-# django-blog
+# django-orm
 
 Behold My Awesome Project!
 
